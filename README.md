@@ -1,5 +1,5 @@
 # CREDIT-CARD-LEAD-PREDICTION
-To predict which customers are most likely to take on a credit card
+## To predict which customers are most likely to take on a credit card
 
 Happy Customer Bank is a mid-sized private bank that deals in all kinds of banking products, like Savings accounts, Current accounts, investment products, credit products, among other offerings.
 
@@ -9,6 +9,7 @@ In this case, the Happy Customer Bank wants to cross-sell its credit cards to it
 
 Now, the bank is looking for your help in identifying customers that could show higher intent towards a recommended credit card, given:
 
-This dataset was part of May 2021 Jobathon conducted my analytics vidhya, for more info check:https://datahack.analyticsvidhya.com/contest/job-a-thon-2/
+This dataset was part of May 2021 Jobathon conducted my analytics vidhya, for more info check:(https://datahack.analyticsvidhya.com/contest/job-a-thon-2/)
+You can also check my kaggle notebook for this classification problem. [Credit card lead](https://kaggle.com/proff1/credit-card-lead-precision-recall-threshold-probs)
 
 
